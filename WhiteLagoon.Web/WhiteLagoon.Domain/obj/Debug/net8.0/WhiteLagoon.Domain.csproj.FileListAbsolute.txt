@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.deps.json
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.AssemblyInfo.cs
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.sourcelink.json
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\refint\WhiteLagoon.Domain.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Domain\obj\Debug\net8.0\ref\WhiteLagoon.Domain.dll
