@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/Villa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/Villa/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/_ViewImports.cshtml]
