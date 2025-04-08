@@ -10,3 +10,9 @@ C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructu
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\obj\Debug\net8.0\refint\WhiteLagoon.Infrastructure.dll
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.pdb
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\obj\Debug\net8.0\ref\WhiteLagoon.Infrastructure.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Infrastructure.runtimeconfig.json
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Infrastructure\obj\Debug\net8.0\WhiteLagoon.Infrastructure.csproj.CopyComplete
