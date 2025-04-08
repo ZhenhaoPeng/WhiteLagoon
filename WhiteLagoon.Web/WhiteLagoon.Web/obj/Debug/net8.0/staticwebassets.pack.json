@@ -13,6 +13,62 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\Room Images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\accessDenied.jpg",
+      "PackagePath": "staticwebassets\\images\\accessDenied.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\notfound.jpg",
+      "PackagePath": "staticwebassets\\images\\notfound.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\orderConfirmed.jpg",
+      "PackagePath": "staticwebassets\\images\\orderConfirmed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\resort.png",
+      "PackagePath": "staticwebassets\\images\\resort.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide2.jpg"
+    },
+    {
       "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
