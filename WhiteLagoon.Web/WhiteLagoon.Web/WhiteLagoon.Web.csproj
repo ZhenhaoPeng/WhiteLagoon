@@ -30,4 +30,8 @@
     <_ContentIncludedByDefault Remove="Views\Villa\Update.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\VillaImage\" />
+  </ItemGroup>
+
 </Project>

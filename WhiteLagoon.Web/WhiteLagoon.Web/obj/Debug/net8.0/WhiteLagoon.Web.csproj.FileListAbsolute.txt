@@ -173,3 +173,4 @@ C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debu
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.dll
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.MvcApplicationPartsAssemblyInfo.cs

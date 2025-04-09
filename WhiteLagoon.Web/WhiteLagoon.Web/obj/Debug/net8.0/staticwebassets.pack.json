@@ -41,6 +41,18 @@
       "PackagePath": "staticwebassets\\images\\Room Images\\7.jpg"
     },
     {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\115bfe5a-2d06-483c-ba4b-bd8c52a23f59.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\115bfe5a-2d06-483c-ba4b-bd8c52a23f59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\4ec5761c-9eab-4f14-9704-267866a1ac01.png",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\4ec5761c-9eab-4f14-9704-267866a1ac01.png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\c10cba67-7a64-4c7e-b72e-8e9286756d53.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\c10cba67-7a64-4c7e-b72e-8e9286756d53.jpg"
+    },
+    {
       "Id": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\accessDenied.jpg",
       "PackagePath": "staticwebassets\\images\\accessDenied.jpg"
     },
