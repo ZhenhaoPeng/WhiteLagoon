@@ -171,4 +171,5 @@ C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\obj\Debu
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.csproj.CopyComplete
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Domain.dll
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
-C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.pdb

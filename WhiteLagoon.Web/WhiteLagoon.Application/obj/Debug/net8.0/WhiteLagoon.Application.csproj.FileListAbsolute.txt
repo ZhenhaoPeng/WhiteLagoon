@@ -10,3 +10,7 @@ C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
 C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\MVC Clean\Code\WhiteLagoon.Web\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CopyComplete

@@ -1039,6 +1039,14 @@
           }
         }
       },
+      "WhiteLagoon.Application/1.0.0": {
+        "dependencies": {
+          "WhiteLagoon.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WhiteLagoon.Application.dll": {}
+        }
+      },
       "WhiteLagoon.Domain/1.0.0": {
         "runtime": {
           "WhiteLagoon.Domain.dll": {}
@@ -1047,7 +1055,7 @@
       "WhiteLagoon.Infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
-          "WhiteLagoon.Domain": "1.0.0"
+          "WhiteLagoon.Application": "1.0.0"
         },
         "runtime": {
           "WhiteLagoon.Infrastructure.dll": {}
@@ -1613,6 +1621,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "WhiteLagoon.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "WhiteLagoon.Domain/1.0.0": {
       "type": "project",

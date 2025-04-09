@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "WhiteLagoon.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WhiteLagoon.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WhiteLagoon.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WhiteLagoon.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WhiteLagoon.Domain/WhiteLagoon.Domain.csproj",
+      "msbuildProject": "../WhiteLagoon.Domain/WhiteLagoon.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "WhiteLagoon.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Student\\.nuget\\packages\\": {}
@@ -33,7 +55,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

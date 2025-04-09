@@ -1609,6 +1609,19 @@
           }
         }
       },
+      "WhiteLagoon.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WhiteLagoon.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WhiteLagoon.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WhiteLagoon.Application.dll": {}
+        }
+      },
       "WhiteLagoon.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -4738,6 +4751,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "WhiteLagoon.Application/1.0.0": {
+      "type": "project",
+      "path": "../WhiteLagoon.Application/WhiteLagoon.Application.csproj",
+      "msbuildProject": "../WhiteLagoon.Application/WhiteLagoon.Application.csproj"
+    },
     "WhiteLagoon.Domain/1.0.0": {
       "type": "project",
       "path": "../WhiteLagoon.Domain/WhiteLagoon.Domain.csproj",
@@ -4749,7 +4767,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.2",
-      "WhiteLagoon.Domain >= 1.0.0"
+      "WhiteLagoon.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4779,8 +4797,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
-              "projectPath": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj"
+            "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj"
             }
           }
         }
