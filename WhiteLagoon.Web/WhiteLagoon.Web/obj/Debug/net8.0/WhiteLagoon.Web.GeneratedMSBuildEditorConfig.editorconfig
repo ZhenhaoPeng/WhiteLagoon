@@ -54,8 +54,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/VillaNumber/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/VillaNumber/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/VillaNumber/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Student/Desktop/MVC Clean/Code/WhiteLagoon.Web/WhiteLagoon.Web/Views/Villa/Create.cshtml]
