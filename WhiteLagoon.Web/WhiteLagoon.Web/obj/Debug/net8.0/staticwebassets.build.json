@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZVOdS+uE3tklCX9ldYJcviAotW2wlQJpgAZG6QLyXlc=",
+  "Hash": "e4ibmecoBaU2JJOKWWMShcbR1mTpn41Kwqw7OAQk7Mk=",
   "Source": "WhiteLagoon.Web",
   "BasePath": "_content/WhiteLagoon.Web",
   "Mode": "Default",
@@ -395,6 +395,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\VillaImage\\4ec5761c-9eab-4f14-9704-267866a1ac01.png"
+    },
+    {
+      "Identity": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\a05c45bd-748f-421c-862f-521f478f33e4.jpg",
+      "SourceId": "WhiteLagoon.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\",
+      "BasePath": "_content/WhiteLagoon.Web",
+      "RelativePath": "images/VillaImage/a05c45bd-748f-421c-862f-521f478f33e4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\VillaImage\\a05c45bd-748f-421c-862f-521f478f33e4.jpg"
     },
     {
       "Identity": "C:\\Users\\Student\\Desktop\\MVC Clean\\Code\\WhiteLagoon.Web\\WhiteLagoon.Web\\wwwroot\\images\\VillaImage\\c10cba67-7a64-4c7e-b72e-8e9286756d53.jpg",
