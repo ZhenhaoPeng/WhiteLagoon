@@ -1,16 +1,29 @@
-# 忽略敏感配置
-appsettings.json
-appsettings.Development.json
+# User-specific
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
 
 # Visual Studio
 .vs/
-*.user
-*.suo
+.vscode/
 
-# Build
-bin/
-obj/
+# Secrets
+appsettings.json
+appsettings.Development.json
 
-# SQL LocalDB（如果有）
+# Local DB
 *.mdf
 *.ldf
+
+# Logs & Misc
+*.log
+*.db
+*.sqlite
