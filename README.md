@@ -22,6 +22,7 @@
 - ✅ Modular structure, easy to scale and maintain
 
 ---
+
 ## 📌 Roadmap
 
 Planned features to be added in the future:
@@ -34,6 +35,7 @@ Planned features to be added in the future:
 - 🧪 **Add unit and integration testing**
 
 ---
+
 ## 🛠️ Technologies
 
 - ASP.NET Core 6+
