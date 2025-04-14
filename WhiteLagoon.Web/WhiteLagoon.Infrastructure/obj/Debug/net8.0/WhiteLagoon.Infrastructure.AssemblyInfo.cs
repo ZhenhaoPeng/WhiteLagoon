@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhiteLagoon.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84d9d8a202fa8c6474defd44a8588a16fc2a0c1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+984f2c83bf377fc44aac912931a82ca4b02f96af")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhiteLagoon.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhiteLagoon.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

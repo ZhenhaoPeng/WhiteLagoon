@@ -1,0 +1,16 @@
+# 忽略敏感配置
+appsettings.json
+appsettings.Development.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# SQL LocalDB（如果有）
+*.mdf
+*.ldf
